@@ -1,0 +1,7 @@
+C:\Users\jon10\Desktop\Act21\googlemaps\bin\Release\net6.0\publish\googlemaps.exe
+C:\Users\jon10\Desktop\Act21\googlemaps\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\jon10\Desktop\Act21\googlemaps\bin\Release\net6.0\publish\appsettings.json
+C:\Users\jon10\Desktop\Act21\googlemaps\bin\Release\net6.0\publish\googlemaps.dll
+C:\Users\jon10\Desktop\Act21\googlemaps\bin\Release\net6.0\publish\googlemaps.deps.json
+C:\Users\jon10\Desktop\Act21\googlemaps\bin\Release\net6.0\publish\googlemaps.runtimeconfig.json
+C:\Users\jon10\Desktop\Act21\googlemaps\bin\Release\net6.0\publish\googlemaps.pdb
